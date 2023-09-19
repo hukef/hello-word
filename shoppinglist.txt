@@ -2,5 +2,3 @@ apple
 banana
 
 cucumbers
-
-potato for jake
