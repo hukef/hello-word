@@ -2,5 +2,3 @@ apple
 banana
 
 cucumbers
-
-tomato for master branch
